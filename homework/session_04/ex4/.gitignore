@@ -1,0 +1,4 @@
+# Ignore sensitive credential files and secrets
+credentials.txt
+*.env
+*.log

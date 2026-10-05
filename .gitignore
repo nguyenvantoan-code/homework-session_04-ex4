@@ -1,0 +1,5 @@
+# Ignore sensitive credential files and secrets
+credentials.txt
+homework/session_04/ex4/credentials.txt
+*.env
+*.log
